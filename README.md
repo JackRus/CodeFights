@@ -57,7 +57,7 @@ When the is just deployed
   - Description: visible to public, official event description
   - Free Event: if event is free of charge
   - Revenue Plan $: your revenue forecast/plan (all sales: tickets, workshops and etc.) 
-  - Eventbrite's Token: [intstructions](#Eventbrite's Token)
+  - Eventbrite's Token: [intstructions](#Eventbrite)
   
   
  

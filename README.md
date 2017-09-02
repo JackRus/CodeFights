@@ -37,5 +37,12 @@ AS ADMIN
 *   Nginx as reverse proxy
 *   QR Core [Libruary] (http://jeromeetienne.github.io/jquery-qrcode/)
 
+## Models Site Map:
+
+ - Home
+   - Event
+     - Check In
+     - Register
+  - Githab (external link)
 
 ## More detailed info to come...

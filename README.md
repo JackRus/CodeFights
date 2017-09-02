@@ -39,11 +39,7 @@ AS ADMIN
 
 ## Features:
 
-
-
-## Getting Started:
-
-When the is just deployed
+TODO
 
 ## How To:
 
@@ -58,10 +54,12 @@ When the is just deployed
   - Free Event: if event is free of charge
   - Revenue Plan $: your revenue forecast/plan (all sales: tickets, workshops and etc.) 
   - Eventbrite's Token: [intstructions](#Eventbrite)
-  
-  
- 
- 
+  - Event's Eventbrite #/ID: 
+    - Go to "Manage Events" or click [here](https://www.eventbrite.com/myevents/)
+    - Select your event
+    - At hte bottom of the page you will see "YOUR EVENT URL", copy the numeric part of the link. This is the Event's ID.
+  - Event's page on Eventbrite: copy the entire "YOUR EVENT URL".
+   
 ## Eventbrite's Token
 To be able to get the information from Eventbrite about your events, you will need to follow the next steps:
   - Log In to [Eventbrite](https://www.eventbrite.com)

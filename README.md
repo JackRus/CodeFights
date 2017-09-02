@@ -47,10 +47,21 @@ When the is just deployed
 
 ## How To:
 
-- Create an Event:
+### Create an Event:
 
-Clicks: Main Menu -> Events -> Add
-
-To 
+- Clicks: Main Menu -> Events -> Add
+- Form Instructions: 
+  - Name: event's name
+  - Begins/Ends On: date when the event begins/ends
+  - Begins/Ends At: time when the event begins/ends
+  - Description: visible to public, official event description
+  - Free Event: if event is free of charge
+  - Revenue Plan $: your revenue forecast/plan (all sales: tickets, workshops and etc.) 
+  - Eventbrite's Token: [intstructions] (## Eventbrite's Token)
+  
+  
+  
+  ## Eventbrite's Token
+  
 
 

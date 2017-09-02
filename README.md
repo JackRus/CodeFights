@@ -60,8 +60,9 @@ When the is just deployed
   - Eventbrite's Token: [intstructions](##Eventbrite's Token)
   
   
-  
-  ## Eventbrite's Token
+ 
+ 
+ ## Eventbrite's Token
   
 
 

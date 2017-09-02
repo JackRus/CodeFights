@@ -62,7 +62,7 @@ When the is just deployed
   
  
  
- ## Eventbrite's Token
+ ## **Eventbrite's Token**
   
 
 

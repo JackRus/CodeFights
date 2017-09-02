@@ -63,9 +63,17 @@ When the is just deployed
  
  
 ## Eventbrite's Token
-To be able to get the information from the eventbrite about your events, you will need to follow the next steps:
+To be able to get the information from Eventbrite about your events, you will need to follow the next steps:
   - Log In to [Eventbrite](https://www.eventbrite.com)
-  - Go to page []()
+  - Go to page [My Apps](https://www.eventbrite.com/myaccount/apps/) page
+  - Click "Create New App"
+  - Fill the form:
+    - Application URL: http://www.YourAppName.com
+    - Application Name: Your App Name
+    - Description: Your App description, general info.
+  - Click "Create Key"
+  - Find a just created app and click "Show Client Secret and OAuth Token"
+  - Copy the "Your personal OAuth token" value
   
 
 

@@ -62,7 +62,10 @@ When the is just deployed
   
  
  
- ## **Eventbrite's Token**
+## Eventbrite's Token
+To be able to get the information from the eventbrite about your events, you will need to follow the next steps:
+  - Log In to [Eventbrite](https://www.eventbrite.com)
+  - Go to page []()
   
 
 

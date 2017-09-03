@@ -1,4 +1,4 @@
-# Global Event - ### Event Management Application.
+# Global Event - Event Management App.
 The app makes it easy to self-check in and self-register at the events posted on Eventbrite.com, very clean and simple UI for attendees. while providing the full control over the process for admins.
 Authorization (claims based) and Authentication via ASP.NET Identity. Ability to block/unblock admins and precisely customize their access level.
 

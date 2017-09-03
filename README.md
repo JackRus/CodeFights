@@ -43,7 +43,7 @@ TODO
 
 ## How To:
 
-### Create an Event:
+#### Create an Event:
 - Clicks: Main Menu -> Events -> Add
 - Form Instructions: 
   - Name: event's name
@@ -59,10 +59,10 @@ TODO
     - At hte bottom of the page you will see "YOUR EVENT URL", copy the numeric part of the link. This is the Event's ID.
   - Event's page on Eventbrite: copy the entire "YOUR EVENT URL".
    
-### Register a new Admin:
-- The App lets you to create only 1 admin - Master Admin (aka Owner) of the App.
-- After deploying the app, go to ~/Account/Register.
-- You will the registration form. Once it is submitted, the Owner will be created.
+#### Register a new Admin:
+- The App lets you to self-register only 1 admin - Master Admin (aka Owner) of the App.
+- After installing the app, go to ~/Account/Register.
+- You will see the registration form. Once it is submitted, the Owner will be created.
 - After that all other admins can be added through the Main Menu.
 - Once the Owner is created, the ~/Account/Register becomes unavailable, you will be redirected to log in page.
 

@@ -1,8 +1,8 @@
-# Global Event 
+# Global Event - ### Event Management Application.
 The app makes it easy to self-check in and self-register at the events posted on Eventbrite.com, very clean and simple UI for attendees. while providing the full control over the process for admins.
 Authorization (claims based) and Authentication via ASP.NET Identity. Ability to block/unblock admins and precisely customize their access level.
 
-Event Management Application. You can try the app [here](http://ge.jackrus.us)
+You can try the app [here](http://ge.jackrus.us)
 The App is deployed on Digitalocean.com, using C#, ASP.NET Core 1.1, Entity & Identity Frameworks, Eventbrite API, jQuery, SQLite, Bootstrap. Server: Nginx (as proxy) on Ubuntu 16.04. 
 
 ## Log In:

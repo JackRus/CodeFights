@@ -23,6 +23,10 @@ AS ADMIN
 * PASS: Password1!
 * USERNAME: admin@admin.admin
 
+AFTER LOG IN
+
+You can try all features. I am intentionally not limitting your actions. The only thing which is not available for testing - Master Admin (Owner) password and claims change.  
+
 ## Technologies used:
 
 *   ASP.NET Core 1.1
@@ -57,18 +61,20 @@ TODO
     - Go to "Manage Events" or click [here](https://www.eventbrite.com/myevents/)
     - Select your event
     - At hte bottom of the page you will see "YOUR EVENT URL", copy the numeric part of the link. This is the Event's ID.
-  - Event's page on Eventbrite: copy the entire "YOUR EVENT URL".
+  - Event's page on Eventbrite: copy the entire "YOUR EVENT URL"
+  
+#### Activating the Event:
+- Once the Event is created, you can edit it. Edit form lets you to change the Status of the Event from inactive to active, which will make it available in the Dashboards
+- To edit the Event click: Main Menu -> Events -> Chose the Event -> Actions -> Edit
+- Only 1 Event can be Active. Also active event can't be Deleted or Archived
    
 #### Register a new Admin:
-- The App lets you to self-register only 1 admin - Master Admin (aka Owner) of the App.
-- After installing the app, go to ~/Account/Register.
-- You will see the registration form. Once it is submitted, the Owner will be created.
-- After that all other admins can be added through the Main Menu.
-- Once the Owner is created, the ~/Account/Register becomes unavailable, you will be redirected to log in page.
+- The App lets you to self-register only 1 admin - Master Admin (aka Owner) of the App
+- After installing the app, go to ~/Account/Register
+- You will see the registration form. Once it is submitted, the Owner will be created
+- After that all other admins can be added through the Main Menu
+- Once the Owner is created, the ~/Account/Register becomes unavailable, you will be redirected to log in page
 
-   
-   
-   
 ## Eventbrite's Token
 To be able to get the information from Eventbrite about your events, you will need to follow the next steps:
   - Log In to [Eventbrite](https://www.eventbrite.com)

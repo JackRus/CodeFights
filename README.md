@@ -2,6 +2,8 @@
 The app makes it easy to self-check in and self-register at the events posted on Eventbrite.com, very clean and simple UI for attendees. while providing the full control over the process for admins.
 Authorization (claims based) and Authentication via ASP.NET Identity. Ability to block/unblock admins and precisely customize their access level.
 
+This is my Final Project for CS50xMiami, cohort 6, 2017. I am still planning to work on this app and to add more features.
+
 You can try the app [here](http://ge.jackrus.us)
 The App is deployed on Digitalocean.com, using C#, ASP.NET Core 1.1, Entity & Identity Frameworks, Eventbrite API, jQuery, SQLite, Bootstrap. Server: Nginx (as proxy) on Ubuntu 16.04. 
 
